@@ -1,2 +1,2 @@
-# Refraction & Refractive Index
+# Beam Expander Final
 Placeholder — files will go here.
