@@ -1,2 +1,6 @@
 # Part 2 Interferometer
-Placeholder — files will go here.
+Increased sensitivity of the interferometer setup.
+
+Measured small path length changes via fringe counting.
+
+Documented stability and alignment behaviour.
