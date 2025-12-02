@@ -1,2 +1,6 @@
 # Beam Expander Final
-Placeholder — files will go here.
+Completed a fully aligned multi-lens beam expansion system.
+
+Used autocollimation and iterative alignment.
+
+Verified consistency across several measurements.
