@@ -1,2 +1,2 @@
-# Refraction & Refractive Index
+# TIR Lab
 Placeholder — files will go here.
