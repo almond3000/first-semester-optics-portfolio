@@ -1,2 +1,2 @@
-# interferometer-lab
-Optical engineering lab projects and experiments
+# First semester labs complete
+Optical engineering lab projects and experiments that i've done 
